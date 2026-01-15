@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hanisha Abdul-Majid
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning AWS cloud computing
+- 👀 I’m interested in c;oud and DevOps
+- 🌱 I’m currently doing my National service
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me anishamajid@gmail.com
 - 😄 Pronouns: She
