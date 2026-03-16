@@ -2,7 +2,7 @@
 - 👀 I’m interested in cloud and DevOps
 - 🌱 I’m currently doing my National service
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me anishamajid@gmail.com
+- 📫 How to reach me anishamajid752@gmail.com
 - 😄 Pronouns: She
 - ⚡ Fun fact: ...
 
